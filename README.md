@@ -1,1 +1,1 @@
-# PG-hiking-app 
+# PGhikingApp 
